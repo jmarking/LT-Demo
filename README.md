@@ -5,7 +5,7 @@ The console application will first display a list of available albums.  Enter th
 
 ### Getting Started
 - Download or [clone](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository#_git_cloning) this repository locally.
-- Install [.NET Core 2.2](https://dotnet.microsoft.com/download).
+- Install [.NET Core 2.1](https://dotnet.microsoft.com/download/dotnet-core/2.1) - should already be installed with latest version of VS 2017.
 
 #### Visual Studio
 - Navigate to the local repository, and open solution file (.sln).
