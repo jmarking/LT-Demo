@@ -9,7 +9,7 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/LTDemoConsole/bin/Debug/netcoreapp2.2/LTDemoConsole.dll",
+            "program": "${workspaceFolder}/LTDemoConsole/bin/Debug/netcoreapp2.1/LTDemoConsole.dll",
             "args": [],
             "cwd": "${workspaceFolder}",
             "console": "externalTerminal",
