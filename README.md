@@ -13,6 +13,7 @@ The console application will first display a list of available albums.  Enter th
   - Run the console application with F5.
 
 #### Visual Studio Code
+- Install [C# Extension](https://marketplace.visualstudio.com/itemdetails?itemName=ms-vscode.csharp).
 - Navigate to the local repository, and open the solution level folder.
   - Run all tests by opening a [console window](https://code.visualstudio.com/docs/editor/integrated-terminal), and from the root directory type 'dotnet test'.
   - Run the console application with F5.
