@@ -20,6 +20,9 @@ namespace LTDemoConsole
 
             if (albumId != -1)
                 await DisplayPhotoOptions(photoService, albumId);
+
+            Console.WriteLine("\nPress any key to continue...");
+            Console.ReadKey();
         }
 
         private static Container ConfigureIoC() =>
